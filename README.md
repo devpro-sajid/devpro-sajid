@@ -5,11 +5,11 @@
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sajidurrahman5/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sajidur5000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devpro_sajid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devprosajid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17980709) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sajidur90200153)
 
-- 🔭 I’m currently working on [Music Enhancer Pro](https://music-enhancer-pro.web.app/)
+- 🔭 I’m currently working at [Fiverr](https://fiverr.com/developer_sajid/)
 
-- 🌱 I’m currently learning **Redux & Typescript**
+- 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://devprosajid.web.app](https://devprosajid.web.app)
+- 👨‍💻 All of my recent projects are available at [https://devprosajid.web.app](https://devprosajid.web.app)
 
 - 📝 I regularly write articles on [https://bloggerfahim.com](https://bloggerfahim.com)
 
